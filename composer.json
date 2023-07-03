@@ -1,0 +1,17 @@
+{
+    "name": "nikki/phalcon_sample",
+    "autoload": {
+        "psr-4": {
+            "Nikki\\PhalconSample\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "nikkirufiansya",
+            "email": "nikkirufiansya88@gmail.com"
+        }
+    ],
+    "require-dev": {
+        "phalcon/devtools": "^2.0"
+    }
+}
